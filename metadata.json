@@ -1,0 +1,6 @@
+{
+  "name": "CanteenFlow - Smart Canteen Queue Management",
+  "description": "Smart Canteen Queue Management System with student portal, timetable break scheduler, live queue wait-time tracking, staff POS order terminal, and simulated JDBC database architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
